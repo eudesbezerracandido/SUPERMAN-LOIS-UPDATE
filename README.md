@@ -33,4 +33,12 @@
 <thumbnail>https://www.themoviedb.org/t/p/original/8hYvZ0EoFoOK2gkEZgFe57vQpGq.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/vlv1gn98GqMnKHLSh0dNciqGfBl.jpg</fanart>
 <info>A vida e a rotina de Superman e Lois Lane como pais e repórteres após a Crise. Clark Kent (Tyler Hoechlin), o Superman, maior herói do mundo, e sua companheira Lois Lane (Elizabeth Tulloch), uma famosa jornalista, se esforçam para lidar com o estresse e as complexidades cotidianas de serem pais que trabalham na sociedade contemporânea.</info> 
-</item> 
+</item>
+
+<item>
+<title>[COLOR silver][B] SUPERMAN & LÓIS 3° TEMPORADA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:84cb412f11028fa9ca8bc165f8890a5949a2538e</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/jkyAK26IqOCEScZ9rem4YEiL0Ho.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Em Superman & Lois, os jornalistas Clark Kent (Tyler Hoechlin), mais conhecido como Super-Homem, e Lois Lane (Elizabeth Tulloch) não são apenas colegas, mas também um casal. Depois de derrotar supervilões, alienígenas e outras criaturas determinadas a erradicar a raça humana, os dois enfrentam um desafio ainda maior: levar uma vida “normal” nos dias de hoje. Além de manterem um emprego não lucrativo, Clark e Lois criam dois filhos, Jonathan (Jordan Elsass) e Jordan (Alexander Garfin), que começam a lhes causar dor de cabeça justamente pela possibilidade de terem herdado os poderes do pai. Voltando às suas origens na pequena cidade de Smallville, Clark e Lois reencontram Lana Lang (Emmanuelle Chriqui), uma agente de crédito local e também o primeiro amor do Homem de Aço. Por sua vez, os filhos dos Kents conhecem a rebelde Sarah Cushing (Inde Navarrette), filha de Lana com o bombeiro Kyle Cushing (Erik Valdez). Mas o retorno a Smallville vai ter uma reviravolta inesperada quando um estranho aparecer.</info>
+</item>
