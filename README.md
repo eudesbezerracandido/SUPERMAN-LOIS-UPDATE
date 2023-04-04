@@ -38,7 +38,7 @@
 <item>
 <title>[COLOR silver][B] SUPERMAN & LÓIS 3° TEMPORADA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:IO7ZKWSAWUDMOJCW2MJIPCKOTGKKSJZQ$nome=DUBLADO EP.1</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a09ba33ec82c0d90b24da6bed6648a1791cdb0e1$nome=LEGENDADO EP.2</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a7647cabca858d3d40539a24e877a81f60f7b23e$nome=DUBLADO EP.2</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b41a1978137368a80dcdc1d8bbb4a3feefb4b570$nome=LEGENDADO EP.3</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/jkyAK26IqOCEScZ9rem4YEiL0Ho.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
