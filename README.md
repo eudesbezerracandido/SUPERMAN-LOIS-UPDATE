@@ -46,8 +46,8 @@
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a5fcffc0cf91d093d3bfa31f102ca3defbbe1996$nome=DUBLADO EP.7</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2IYFYCSBJFJQZHVODQUXFUYCLBAHSP4M$nome=DUBLADO EP.8</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:HT5KSSULQUTTL2HBNIGNY6ZNBPMJ5E2Q$nome=DUBLADO EP.9</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:837be34518d7660517bd760ebe3b080166b40f03$nome=DUBLADO EP.10</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4dc2cb9495143e7ae9f6ac69a9bb79edf5cc2e6a$nome=DUBLADO EP.11</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8a695005aec835dbeaf0b423f3ca4997dc09d8a8$nome=DUBLADO EP.10</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7b52e43269dd4c374faf06519af3ac3d5fd3cb3e$nome=DUBLADO EP.11</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7f02add64c71ebb329b817ae34e0f5ec729299c9$nome=DUBLADO EP.12</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e6574476e35d928579e264b37ebb0d7f12f4ab17$nome=DUBLADO EP.13</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/jkyAK26IqOCEScZ9rem4YEiL0Ho.jpg</thumbnail>
